@@ -244,9 +244,10 @@ if(Size%4 != 0)
         else if(b[i]==15)
             cout<<"1111";
 
-         goto menue;
-
     }
+
+     goto menue;
+
     }break;
 
 
